@@ -38,4 +38,7 @@ convention from languages such as JavaScript.
 the `static` keyword and must be wrapped in a `class`. `Classes` in C# can contain multiple methods, each method relates
 to that declared `class` in some way.
 
+- C# is very strict about types. Types indicate what form of data is stored in variables, expected from methods, and
+C# expects a lot from the programmer related to keeping types in conformity.
+
 */
