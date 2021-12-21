@@ -58,4 +58,6 @@ DECIMAL is another integer type that is best used for money calculations.
 
 - Type Inference is present in C#, the `var` keyword can be used and C# can infer the type based on context in a given method or elsewhere.
 
+- Arrays are designated with the [] symbols and can have values stored like such `int[] array2 = new int[] { 1, 3, 5, 7, 9 };`.
+
 */
