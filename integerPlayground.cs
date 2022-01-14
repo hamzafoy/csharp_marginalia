@@ -5,3 +5,7 @@ int a = 2;
 int b = a + 3;
 
 Console.WriteLine(b);
+
+int monthlyWage = 1234;
+int months = 12, bonus = 1000;
+//You can declare more than one variable of the same type on the same line.
